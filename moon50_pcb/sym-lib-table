@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Arduino)(type Legacy)(uri ${KIPRJMOD}/lib/kicad-lib-arduino-main/Arduino.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/lib/kbd-master/kicad-symbols/kbd.lib)(options "")(descr ""))
+)
